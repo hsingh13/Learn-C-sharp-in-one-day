@@ -1,1 +1,0 @@
-# Learn-C-sharp-in-one-day
